@@ -21,7 +21,7 @@ import { FormsModule } from '@angular/forms';
     SimpleAlertViewComponent,
     TabComponent,
     TabsComponent,
-    TimerComponent
+    TimerComponent,
   ],
   imports: [
     BrowserModule,
